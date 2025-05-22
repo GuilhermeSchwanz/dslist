@@ -1,6 +1,5 @@
 package com.devsuperior.dslist.entities;
 
-import java.security.Identity;
 import java.util.Objects;
 
 import jakarta.persistence.Column;
